@@ -93,7 +93,7 @@ Go to the root directory and run
 
 **under Windows**
 
-    ./mvnw.cmd clean install
+    mvnw.cmd clean install
 
 
 ## Run
