@@ -1,7 +1,7 @@
 
 # Lawnmower program
 
-This is a potential solution for the Lawnmower program described here: [lawnmower_problem.pdf](lawnmower_problem.pdf)
+This is a potential solution for the Lawnmower program described here: [https://github.com/walayd/LawnMower/blob/main/lawnmower_problem.pdf](lawnmower_problem.pdf)
 
 - [Lawnmower program](#lawnmower-program)
    * [Design choices](#design-choices)
@@ -130,7 +130,7 @@ eg
 
 **under Windows**
 
-    ./mvnw.cmd test
+    mvnw.cmd test
 
 
 
