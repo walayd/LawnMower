@@ -1,0 +1,15 @@
+C:\Users\wli7\IdeaProjects\mower_project\src\main\java\io\github\walayd\mower_project\domain\actions\MoveForwardAction.java
+C:\Users\wli7\IdeaProjects\mower_project\src\main\java\io\github\walayd\mower_project\domain\Point.java
+C:\Users\wli7\IdeaProjects\mower_project\src\main\java\io\github\walayd\mower_project\exceptions\ActionDoNotExistException.java
+C:\Users\wli7\IdeaProjects\mower_project\src\main\java\io\github\walayd\mower_project\domain\Mower.java
+C:\Users\wli7\IdeaProjects\mower_project\src\main\java\io\github\walayd\mower_project\controllers\LawnController.java
+C:\Users\wli7\IdeaProjects\mower_project\src\main\java\io\github\walayd\mower_project\controllers\ParserController.java
+C:\Users\wli7\IdeaProjects\mower_project\src\main\java\io\github\walayd\mower_project\domain\actions\ActionFactory.java
+C:\Users\wli7\IdeaProjects\mower_project\src\main\java\io\github\walayd\mower_project\domain\orientation\Turn.java
+C:\Users\wli7\IdeaProjects\mower_project\src\main\java\io\github\walayd\mower_project\domain\actions\TurnLeftAction.java
+C:\Users\wli7\IdeaProjects\mower_project\src\main\java\io\github\walayd\mower_project\domain\actions\TurnRightAction.java
+C:\Users\wli7\IdeaProjects\mower_project\src\main\java\io\github\walayd\mower_project\Main.java
+C:\Users\wli7\IdeaProjects\mower_project\src\main\java\io\github\walayd\mower_project\domain\orientation\Orientation.java
+C:\Users\wli7\IdeaProjects\mower_project\src\main\java\io\github\walayd\mower_project\exceptions\PointAlreadyOccupiedException.java
+C:\Users\wli7\IdeaProjects\mower_project\src\main\java\io\github\walayd\mower_project\domain\Lawn.java
+C:\Users\wli7\IdeaProjects\mower_project\src\main\java\io\github\walayd\mower_project\domain\actions\Action.java
