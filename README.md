@@ -14,8 +14,8 @@ This is a potential solution for the Lawnmower program described here: [lawnmowe
    * [Run](#run)
       + [Run the program](#run-the-program)
       + [Run the unit tests](#run-the-unit-tests)
-## Design
-choices
+
+## Designchoices
 
 ### System interface definition
 I started by defining what operations (APIs) are expected from the system. This will establish the exact contract expected from the system and ensure if we haven’t gotten any requirements wrong
