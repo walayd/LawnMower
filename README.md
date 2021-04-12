@@ -116,8 +116,8 @@ eg
 **options**
 | option | Description |
 |--|--|
-| arg0  | If run in a workspace folder, build all the modules of all the frameworks of the current workspace, or if run in a framework folder, build all the modules of this framework. |
-| arg1  | fully qualified name (path + filename) to the output  |
+| arg0  | fully qualified name (path + filename) to the input file |
+| arg1  | fully qualified name (path + filename) to the output file |
 | arg2  | Number of thread that you wish to execute  |
 
 
