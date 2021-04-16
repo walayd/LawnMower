@@ -80,6 +80,9 @@ It can be improved since we can share reading as well in case of a huge file.
 ### Tests
 I believe in TDD (Test Driven Development) even if it is hard to apply, I started by defining my POJOs methods, then the tests skull and I came back to develop my POJOs methods. It protect my application from breaking in case of refactor or adding new features. I used `RepeatableTest` to check my multithreading behaviour, if it has idempotent property
 
+### HLD
+![Image](https://raw.githubusercontent.com/walayd/LawnMower/main/hld.PNG)
+
 ## Build
 This project comes with Maven Wrapper, an excellent choice for users that don't want to install Maven
 
